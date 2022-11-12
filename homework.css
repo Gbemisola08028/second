@@ -1,0 +1,17 @@
+.firstheading {
+    font-size: 60px;
+    color: orange;
+    justify-content: left;
+}
+.s1 {
+    font-size: larger;
+    color: blue;
+}
+.s2 {
+    font-size: larger;
+    color: red;
+}
+.s3 {
+    font-size: larger;
+    color: yellow;
+}

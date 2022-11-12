@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Fasthand&display=swap');
+
+h1 {
+    font-family: "fasthand" , sans-serif
+}
+
+
+
+.firstheading {
+    color: red;
+    font-size: 40px!important;
+}
+#secondheading {
+    color: blue;
+}
+p {
+    font-weight: bold;
+}
+.author {
+    font-weight: bold;
+    color: purple;
+}
+
+ 
+
+
+    
+

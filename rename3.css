@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&display=swap');
+* {
+    text-decoration: none;
+    list-style-type: none;
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.linkitems {
+    display: flex;
+    align-items: center;
+}
+ul {
+    display: flex;
+    margin: 0px 15px;
+}
+ul li {
+    margin: 0px 25px;
+    font-size: 18px;
+}
+nav {
+    background-image: url(./assets/wu-yi-QHrjh49sjRA-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
